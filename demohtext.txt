@@ -1,1 +1,1 @@
-i am bhuvan , iam the who created this file
+git status (- add . (- git commit -m"" 
